@@ -1,1 +1,5 @@
-[![GitHubCard](https://githubcard.com/ombhd.svg)](https://githubcard.com/ombhd/card?utm_source=github&utm_medium=readme)
+![GitHub stats](https://github-stats-extended.vercel.app/api?username=ombhd&show_icons=true)
+
+![Top languages](https://github-stats-extended.vercel.app/api/top-langs/?username=ombhd&layout=compact)
+
+
